@@ -1,0 +1,23 @@
+2025-05-02 18:34:34,429 - WARNING - Xet Storage is enabled for this repo, but the 'hf_xet' package is not installed. Falling back to regular HTTP download. For better performance, install the package with: `pip install huggingface_hub[hf_xet]` or `pip install hf_xet`
+2025-05-02 18:36:01,718 - INFO - Listening on port 2222
+2025-05-02 18:36:01,719 - INFO - Listening on port 8080
+2025-05-02 18:36:01,719 - INFO - Honeypot started successfully
+2025-05-02 18:36:01,719 - INFO - Listening on port 2121
+2025-05-02 18:40:44,122 - INFO - Listening on port 2222
+2025-05-02 18:40:44,123 - INFO - Listening on port 8080
+2025-05-02 18:40:44,123 - INFO - Honeypot started successfully
+2025-05-02 18:40:44,123 - INFO - Listening on port 2121
+2025-05-02 18:48:10,910 - INFO - Listening on port 2222
+2025-05-02 18:48:10,910 - INFO - Honeypot started successfully
+2025-05-02 18:48:10,910 - INFO - Listening on port 8080
+2025-05-02 18:48:10,911 - INFO - Listening on port 2121
+2025-05-02 19:11:45,363 - INFO - Listening on port 2222
+2025-05-02 19:11:45,363 - INFO - Honeypot started successfully
+2025-05-02 19:11:45,363 - INFO - Listening on port 8080
+2025-05-02 19:11:45,363 - INFO - Listening on port 2121
+2025-05-02 19:11:53,175 - INFO - Connection from ('127.0.0.1', 38867)
+2025-05-02 19:11:53,186 - INFO - Attack logged from 127.0.0.1 on port 2222
+2025-05-02 19:11:53,670 - INFO - Connection from ('127.0.0.1', 38868)
+2025-05-02 19:11:53,681 - INFO - Attack logged from 127.0.0.1 on port 8080
+2025-05-02 19:11:54,171 - INFO - Connection from ('127.0.0.1', 38869)
+2025-05-02 19:11:54,181 - INFO - Attack logged from 127.0.0.1 on port 2121
