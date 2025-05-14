@@ -1,0 +1,87 @@
+2025-05-02 18:34:34,429 - WARNING - Xet Storage is enabled for this repo, but the 'hf_xet' package is not installed. Falling back to regular HTTP download. For better performance, install the package with: `pip install huggingface_hub[hf_xet]` or `pip install hf_xet`
+2025-05-02 18:36:01,718 - INFO - Listening on port 2222
+2025-05-02 18:36:01,719 - INFO - Listening on port 8080
+2025-05-02 18:36:01,719 - INFO - Honeypot started successfully
+2025-05-02 18:36:01,719 - INFO - Listening on port 2121
+2025-05-02 18:40:44,122 - INFO - Listening on port 2222
+2025-05-02 18:40:44,123 - INFO - Listening on port 8080
+2025-05-02 18:40:44,123 - INFO - Honeypot started successfully
+2025-05-02 18:40:44,123 - INFO - Listening on port 2121
+2025-05-02 18:48:10,910 - INFO - Listening on port 2222
+2025-05-02 18:48:10,910 - INFO - Honeypot started successfully
+2025-05-02 18:48:10,910 - INFO - Listening on port 8080
+2025-05-02 18:48:10,911 - INFO - Listening on port 2121
+2025-05-02 19:11:45,363 - INFO - Listening on port 2222
+2025-05-02 19:11:45,363 - INFO - Honeypot started successfully
+2025-05-02 19:11:45,363 - INFO - Listening on port 8080
+2025-05-02 19:11:45,363 - INFO - Listening on port 2121
+2025-05-02 19:11:53,175 - INFO - Connection from ('127.0.0.1', 38867)
+2025-05-02 19:11:53,186 - INFO - Attack logged from 127.0.0.1 on port 2222
+2025-05-02 19:11:53,670 - INFO - Connection from ('127.0.0.1', 38868)
+2025-05-02 19:11:53,681 - INFO - Attack logged from 127.0.0.1 on port 8080
+2025-05-02 19:11:54,171 - INFO - Connection from ('127.0.0.1', 38869)
+2025-05-02 19:11:54,181 - INFO - Attack logged from 127.0.0.1 on port 2121
+2025-05-08 20:27:40,323 - INFO - Honeypot started successfully
+2025-05-08 20:27:40,323 - INFO - Listening on port 2222
+2025-05-08 20:27:40,324 - INFO - Listening on port 8080
+2025-05-08 20:27:40,324 - INFO - Listening on port 2121
+2025-05-08 20:36:19,809 - INFO - Honeypot started successfully
+2025-05-08 20:36:19,809 - INFO - Listening on port 2222
+2025-05-08 20:36:19,814 - INFO - Listening on port 8080
+2025-05-08 20:36:19,814 - INFO - Listening on port 2121
+2025-05-08 20:37:07,963 - INFO - Connection from ('127.0.0.1', 35890)
+2025-05-08 20:37:07,976 - INFO - Attack logged from 127.0.0.1 on port 2222
+2025-05-08 20:37:08,458 - INFO - Connection from ('127.0.0.1', 35891)
+2025-05-08 20:37:08,469 - INFO - Attack logged from 127.0.0.1 on port 8080
+2025-05-08 20:37:08,958 - INFO - Connection from ('127.0.0.1', 35893)
+2025-05-08 20:37:08,969 - INFO - Attack logged from 127.0.0.1 on port 2121
+2025-05-13 15:46:14,659 - INFO - Listening on port 2222
+2025-05-13 15:46:14,659 - INFO - Honeypot started successfully
+2025-05-13 15:46:14,659 - INFO - Listening on port 8080
+2025-05-13 15:46:14,659 - INFO - Listening on port 2121
+2025-05-13 15:49:38,586 - INFO - Connection from ('127.0.0.1', 51717)
+2025-05-13 15:49:38,612 - INFO - Attack logged from 127.0.0.1 on port 2222
+2025-05-13 15:49:39,082 - INFO - Connection from ('127.0.0.1', 51718)
+2025-05-13 15:49:39,100 - INFO - Attack logged from 127.0.0.1 on port 8080
+2025-05-13 15:49:39,582 - INFO - Connection from ('127.0.0.1', 51719)
+2025-05-13 15:49:39,602 - INFO - Attack logged from 127.0.0.1 on port 2121
+2025-05-13 15:52:53,365 - INFO - Honeypot started successfully
+2025-05-13 15:52:53,365 - INFO - Listening on port 2222
+2025-05-13 15:52:53,365 - INFO - Listening on port 8080
+2025-05-13 15:52:53,365 - INFO - Listening on port 2121
+2025-05-13 15:59:17,192 - INFO - Listening on port 2222
+2025-05-13 15:59:17,192 - INFO - Listening on port 8080
+2025-05-13 15:59:17,193 - INFO - Honeypot started successfully
+2025-05-13 15:59:17,196 - INFO - Listening on port 2121
+2025-05-13 15:59:43,329 - INFO - Connection from ('127.0.0.1', 51928)
+2025-05-13 15:59:43,355 - INFO - Attack logged from 127.0.0.1 on port 2222
+2025-05-13 15:59:43,823 - INFO - Connection from ('127.0.0.1', 51929)
+2025-05-13 15:59:43,847 - INFO - Attack logged from 127.0.0.1 on port 8080
+2025-05-13 15:59:44,324 - INFO - Connection from ('127.0.0.1', 51930)
+2025-05-13 15:59:44,345 - INFO - Attack logged from 127.0.0.1 on port 2121
+2025-05-13 17:18:08,030 - INFO - Honeypot started successfully
+2025-05-13 17:18:08,031 - INFO - Listening on port 2222
+2025-05-13 17:18:08,031 - INFO - Listening on port 8080
+2025-05-13 17:18:08,031 - INFO - Listening on port 2121
+2025-05-13 17:22:29,380 - INFO - Connection from ('127.0.0.1', 52765)
+2025-05-13 17:22:29,401 - INFO - Attack logged from 127.0.0.1 on port 2222
+2025-05-13 17:22:29,877 - INFO - Connection from ('127.0.0.1', 52766)
+2025-05-13 17:22:29,894 - INFO - Attack logged from 127.0.0.1 on port 8080
+2025-05-13 17:22:30,378 - INFO - Connection from ('127.0.0.1', 52768)
+2025-05-13 17:22:30,398 - INFO - Attack logged from 127.0.0.1 on port 2121
+2025-05-13 17:22:30,887 - INFO - Attack logged from 127.0.0.1 on port 2121
+2025-05-13 17:22:31,387 - INFO - Attack logged from 127.0.0.1 on port 2121
+2025-05-13 17:22:31,890 - INFO - Attack logged from 127.0.0.1 on port 2121
+2025-05-13 17:22:32,392 - INFO - Attack logged from 127.0.0.1 on port 2121
+2025-05-13 22:41:18,735 - INFO - Listening on port 2222
+2025-05-13 22:41:18,735 - INFO - Honeypot started successfully
+2025-05-13 22:41:18,736 - INFO - Listening on port 8080
+2025-05-13 22:41:18,737 - INFO - Listening on port 2121
+2025-05-13 22:43:26,029 - INFO - Listening on port 2222
+2025-05-13 22:43:26,030 - INFO - Honeypot started successfully
+2025-05-13 22:43:26,030 - INFO - Listening on port 8080
+2025-05-13 22:43:26,031 - INFO - Listening on port 2121
+2025-05-13 22:48:44,790 - INFO - Listening on port 2222
+2025-05-13 22:48:44,791 - INFO - Honeypot started successfully
+2025-05-13 22:48:44,791 - INFO - Listening on port 2121
+2025-05-13 22:48:44,791 - INFO - Listening on port 8080
